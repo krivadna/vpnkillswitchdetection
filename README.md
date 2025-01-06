@@ -33,19 +33,6 @@ A sophisticated real-time VPN security monitoring tool built with JavaScript and
 - WebRTC protection through connection candidate monitoring
 - Kill switch verification through network interface tracking
 
-### Network Analysis
-```javascript
-async function checkDNSLeaks() {
-    // Multi-layer DNS leak detection
-    const checks = await Promise.all([
-        checkSystemDNS(),
-        checkWebRTCLeaks(),
-        checkMultipleDNSServers()
-    ]);
-    return !checks.some(result => result === true);
-}
-```
-
 ### Monitoring System
 - 5-second intervals for IP monitoring
 - 10-second intervals for kill switch verification

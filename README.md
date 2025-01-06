@@ -1,10 +1,14 @@
 
-# 🛡️ Matrix VPN Monitor 
+# 🛡️ Matrix VPN Monitor by Cyber Kalki
 <div align="center">
   <img src="logo.svg" width="400" height="400" alt="Cyber Kalki Logo">
 </div>
   
-A sophisticated real-time VPN security monitoring tool built with JavaScript and modern web technologies.
+> 🚀 A sophisticated real-time VPN security monitoring tool built with JavaScript and modern web technologies.
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=cyberkalki.subdomain-scanner)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Contact](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
 
 [![GitHub followers](https://img.shields.io/github/followers/krivadna?style=social)](https://github.com/krivadna)[![Profile Views](https://komarev.com/ghpvc/?username=krivadna&color=blueviolet)](https://github.com/krivadna)
 

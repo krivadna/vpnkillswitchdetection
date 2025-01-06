@@ -91,30 +91,22 @@
       repeatCount="indefinite"/>
   </circle>
 
-  <!-- Title Text -->
-  <text x="200" y="160" 
-    text-anchor="middle" 
-    fill="#00ff00" 
-    font-family="'Orbitron', sans-serif" 
-    font-size="24" 
-    filter="url(#glow)">
-    MATRIX VPN
-  </text>
-  <text x="180" y="160" 
-    text-anchor="middle" 
-    fill="#00ff00" 
-    font-family="'Orbitron', sans-serif" 
-    font-size="24" 
-    filter="url(#glow)">
-    MONITOR
-  </text>
-  <text x="200" y="300" 
-    text-anchor="middle" 
-    fill="#00ff00" 
-    font-family="'Share Tech Mono', monospace" 
-    font-size="16" 
-    filter="url(#glow)"
-    opacity="0.9">
-    BY CYBER KALKI
-  </text>
+  <!-- Binary data streams -->
+  <g id="dataStream" fill="#00ff00" font-family="monospace" font-size="12">
+    <text x="120" y="150" opacity="0.6">
+      <animate attributeName="y" 
+        values="150;400" dur="8s" repeatCount="indefinite"/>
+      10110
+    </text>
+    <text x="280" y="200" opacity="0.6">
+      <animate attributeName="y" 
+        values="200;450" dur="6s" repeatCount="indefinite"/>
+      01001
+    </text>
+    <text x="180" y="100" opacity="0.6">
+      <animate attributeName="y" 
+        values="100;350" dur="7s" repeatCount="indefinite"/>
+      11010
+    </text>
+  </g>
 </svg>

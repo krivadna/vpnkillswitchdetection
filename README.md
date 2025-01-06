@@ -110,7 +110,7 @@ A sophisticated real-time VPN security monitoring tool built with JavaScript and
 
 ## 🚀 Live Demo
   <!-- YouTube Link -->
-  [![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)]([https://youtube.com/shorts/KPG1NakP5fk?si=2khHNE_7X-Vgfmdg]
+[![Watch Demo on YouTube](https://img.shields.io/badge/Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com/shorts/KPG1NakP5fk?si=2khHNE_7X-Vgfmdg)
 
 
 ##  Access Tool 🔥 

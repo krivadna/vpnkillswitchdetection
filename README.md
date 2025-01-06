@@ -1,5 +1,8 @@
 
 # 🛡️ Matrix VPN Monitor 
+<div align="center">
+  <img src="logo.svg" width="400" height="400" alt="Cyber Kalki Logo">
+</div>
 
 A sophisticated real-time VPN security monitoring tool built with JavaScript and modern web technologies.
 

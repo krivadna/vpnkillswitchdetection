@@ -122,8 +122,7 @@
 ##  Access Tool 🔥 
 
 [![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/vpnmonitorob)
-<!-- Divider -->
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
+
 
 ### 🌐 Connect With Me
 [![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)

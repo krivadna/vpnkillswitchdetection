@@ -116,8 +116,15 @@ A sophisticated real-time VPN security monitoring tool built with JavaScript and
 
 
 ##  Access Tool 🔥 
-https://kalkikrivadna.com/vpnmonitorob
 
-  
-## 📞 Support
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kalkimahavatar)
+[![Website](https://img.shields.io/badge/Website-kalkikrivadna.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kalkikrivadna.com/vpnmonitorob)
+<!-- Divider -->
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=1)
+
+### 🌐 Connect With Me
+[![Discord](https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/kalkikrivadna)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+mt89ex-DKJlkNDBl)
+
+
+<!-- Footer -->
+<img src="https://raw.githubusercontent.com/krivadna/krivadna/refs/heads/main/footer.svg" width="100%" alt="Cyberpunk Footer"/>

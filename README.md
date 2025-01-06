@@ -3,7 +3,7 @@
 <div align="center">
   <img src="logo.svg" width="400" height="400" alt="Cyber Kalki Logo">
 </div>
-
+  [![GitHub followers](https://img.shields.io/github/followers/krivadna?style=social)](https://github.com/krivadna)[![Profile Views](https://komarev.com/ghpvc/?username=krivadna&color=blueviolet)](https://github.com/krivadna)
 A sophisticated real-time VPN security monitoring tool built with JavaScript and modern web technologies.
 
 ## ✨ Features
